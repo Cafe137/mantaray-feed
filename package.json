@@ -1,0 +1,19 @@
+{
+    "name": "onboarding-part-ii",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@ethersphere/bee-js": "^6.4.0",
+        "cafe-utility": "^10.25.0",
+        "ethers": "^6.8.0",
+        "mantaray-js": "^1.0.3"
+    },
+    "devDependencies": {
+        "typescript": "^5.2.2"
+    }
+}
